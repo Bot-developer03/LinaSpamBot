@@ -19,7 +19,8 @@ No Requirement of API ID and API HASH
  : `sh -c "$(curl -fsSL https://github.com/bot-developer03/linaspambot)"`
 ``` 
 Use 
-```python string_session.py
+```
+python string_session.py
 ```
  next time to generate another string.)
 

@@ -1,4 +1,5 @@
 # LinaSpamBot
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Lina+spam+bot+Repo!;A+simple+multi+spam+bot!;by+bot+developer!)
 
 <p align="center">
   <img src="https://telegra.ph/file/9daafeb39193a4a22ee5c.jpg">
